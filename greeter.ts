@@ -10,8 +10,8 @@ interface Person {
   lastName: string;
 }
 
-function greeter(person: Person) {
-  return "Hello, " + person;
+function greeter(person: Student) {
+  return "Hello, " + person.fullName;
 }
 
 let user = new Student("Jane", "M.", "User");
