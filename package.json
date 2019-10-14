@@ -1,0 +1,23 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "description": "My first focus on typescript",
+  "main": "greeter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sepuckett86/typescript-practice.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Susan Puckett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sepuckett86/typescript-practice/issues"
+  },
+  "homepage": "https://github.com/sepuckett86/typescript-practice#readme",
+  "dependencies": {}
+}
