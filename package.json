@@ -4,7 +4,8 @@
   "description": "My first focus on typescript",
   "main": "greeter.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc greeter.ts"
   },
   "repository": {
     "type": "git",
